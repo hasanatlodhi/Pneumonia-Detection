@@ -7,3 +7,6 @@ The main goal of this project is to assist doctors and healthcare professionals 
 
 You can Download Dataset from here:
 https://drive.google.com/drive/folders/1f8OgWKUHXQ-uXpNWn5E4AaAzZiJDZgTk?usp=share_link
+
+On Top of It I also have developed an Android Application. You can visit my website to see more details
+http://hasanatlodhi.unaux.com/projects/
